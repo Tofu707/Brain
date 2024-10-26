@@ -1,0 +1,367 @@
+{
+  "workspaces": {
+    "MAIN": {
+      "main": {
+        "id": "d99f5397ae9eb5a7",
+        "type": "split",
+        "children": [
+          {
+            "id": "cb1beaa090d7dfd2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2ae2cb5f9a372e5b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "课堂/专业研讨/新生专业研讨第一讲.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "1b42fd853029f1bd",
+        "type": "split",
+        "children": [
+          {
+            "id": "9476c51ae3ba92d8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4242c97df0210067",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "d75ef61a7af45b7e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#作业",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b8e2a717941f5f02",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "d7d20116f294b60c",
+        "type": "split",
+        "children": [
+          {
+            "id": "e9be26087e8f670d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c08b3945b8a36a47",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "b143724a5e7b8b00",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "课堂/专业研讨/新生专业研讨第一讲.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "7d487f6b49e99d2e",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "课堂/专业研讨/新生专业研讨第一讲.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "09117d74679c6396",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "课堂/专业研讨/新生专业研讨第一讲.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "fuzzy-chinese-pinyin:FuzzySearch": false,
+          "i18n:翻译": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "publish:发布更改": false,
+          "workspaces:管理工作区布局": false,
+          "audio-recorder:开始/结束录音": false,
+          "random-note:开始漫游笔记": false,
+          "markdown-importer:打开 Markdown 格式转换器": false
+        }
+      },
+      "active": "2ae2cb5f9a372e5b",
+      "mtime": "2024-10-08T14:02:06+08:00"
+    },
+    "3Part": {
+      "main": {
+        "id": "d99f5397ae9eb5a7",
+        "type": "split",
+        "children": [
+          {
+            "id": "cb1beaa090d7dfd2",
+            "type": "tabs",
+            "dimension": 64.90384615384616,
+            "children": [
+              {
+                "id": "2ae2cb5f9a372e5b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "课堂/专业研讨/新生专业研讨第一讲.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "2dd504291dc1457d",
+            "type": "split",
+            "dimension": 35.09615384615385,
+            "children": [
+              {
+                "id": "4128cd4c02dec20c",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "7e55ca16a2bc0385",
+                    "type": "leaf",
+                    "state": {
+                      "type": "canvas",
+                      "state": {
+                        "file": "工作台/四象限工作台.canvas",
+                        "viewState": {
+                          "x": -1319.88227742316,
+                          "y": -45.93664198238645,
+                          "zoom": -1.169919891943621
+                        }
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "63e6bf20cd8902ce",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "eac153ae043cd5a3",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {}
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "1b42fd853029f1bd",
+        "type": "split",
+        "children": [
+          {
+            "id": "9476c51ae3ba92d8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4242c97df0210067",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "d75ef61a7af45b7e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#作业",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b8e2a717941f5f02",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "d7d20116f294b60c",
+        "type": "split",
+        "children": [
+          {
+            "id": "e9be26087e8f670d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c08b3945b8a36a47",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "b143724a5e7b8b00",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "课堂/专业研讨/新生专业研讨第一讲.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "09117d74679c6396",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "课堂/专业研讨/新生专业研讨第一讲.md"
+                  }
+                }
+              },
+              {
+                "id": "f5ba47f85e710d41",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "课堂/专业研讨/新生专业研讨第一讲.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "fuzzy-chinese-pinyin:FuzzySearch": false,
+          "i18n:翻译": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "publish:发布更改": false,
+          "workspaces:管理工作区布局": false,
+          "audio-recorder:开始/结束录音": false,
+          "random-note:开始漫游笔记": false,
+          "markdown-importer:打开 Markdown 格式转换器": false
+        }
+      },
+      "active": "2ae2cb5f9a372e5b",
+      "mtime": "2024-10-08T15:49:10+08:00"
+    }
+  },
+  "active": "3Part"
+}

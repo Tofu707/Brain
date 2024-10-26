@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "d99f5397ae9eb5a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "68937b5a88277f10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87658b196084daf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "读书笔记/色情社会.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffb52eb6b82521ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "读书笔记/加速社会.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b42fd853029f1bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "9476c51ae3ba92d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4242c97df0210067",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d75ef61a7af45b7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "价值",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8e2a717941f5f02",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d7d20116f294b60c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9be26087e8f670d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c08b3945b8a36a47",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b143724a5e7b8b00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "读书笔记/加速社会.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d487f6b49e99d2e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "读书笔记/加速社会.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09117d74679c6396",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "读书笔记/加速社会.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "publish:发布更改": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false,
+      "random-note:开始漫游笔记": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "fuzzy-chinese-pinyin:FuzzySearch": false,
+      "i18n:翻译": false
+    }
+  },
+  "active": "ffb52eb6b82521ec",
+  "lastOpenFiles": [
+    "读书笔记/肯定社会.md",
+    "读书笔记/色情社会.md",
+    "读书笔记/加速社会.md",
+    "崇高.md",
+    "读书笔记/展示社会.md",
+    "奇观.md",
+    "研点.md",
+    "剧场政治.md",
+    "巴特.md",
+    "刺点.md",
+    "数元.md",
+    "中断.md",
+    "色情.md",
+    "读书笔记/证据社会.md",
+    "课堂/普通心理学第一讲.md",
+    "心理学的性质.md",
+    "工作坊/「启智润心」 云南社会心理学心理健康工作者论坛.md",
+    "客体永恒性.md",
+    "课堂/大学语文第一讲.md",
+    "本雅明.md",
+    "课堂/大学英语A第一讲.md",
+    "李佳.md",
+    "班级事务/会议/2024新生档案审核培训.md",
+    "班级事务/会议/9.18 班会──金秋时节话感悟.md",
+    "诗经.md",
+    "弥赛亚时间.md",
+    "未命名",
+    "夏耀稳",
+    "课堂",
+    "工作坊/中国“百年百位”心理学家大讲堂—赵志裕 教授《文化与心理的探骊者》",
+    "霍琨 人体解剖学",
+    "2024-09-07_12-41.png",
+    "Pasted image 20240907123407.png",
+    "工作坊",
+    "读书笔记",
+    "读书笔记/极端隐私/数据库",
+    "班级事务/会议",
+    "班级事务/学生档案/数据库"
+  ]
+}

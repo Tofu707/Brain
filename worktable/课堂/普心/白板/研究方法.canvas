@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"d545e89cc0358f67","type":"text","text":"研究方法","x":-205,"y":-840,"width":250,"height":340,"color":"1"},
+		{"id":"1f0c21b52052e670","type":"file","file":"课堂/普心/第四讲/观察法.md","x":480,"y":-1320,"width":400,"height":400},
+		{"id":"4a9bc5fa4a68483b","type":"text","text":"特质","x":-405,"y":-550,"width":125,"height":50},
+		{"id":"9c8fe1f304537ca0","type":"text","text":"没有好坏","x":-668,"y":-720,"width":188,"height":50},
+		{"id":"67301c7e250765c7","type":"text","text":"可以融合","x":-918,"y":-585,"width":250,"height":60},
+		{"id":"8ab18f7fba79c7c8","type":"text","text":"儿童","x":1040,"y":-1480,"width":250,"height":60},
+		{"id":"450e4ef5e90329bf","type":"text","text":"动物","x":1040,"y":-1350,"width":250,"height":60},
+		{"id":"cf5386611eca6e2d","type":"file","file":"课堂/普心/第四讲/实验法.md","x":480,"y":-900,"width":400,"height":400},
+		{"id":"81ab54c12747f57b","type":"file","file":"课堂/普心/普通心理学第四讲.md","x":-205,"y":0,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"cd95723fb095b020","fromNode":"81ab54c12747f57b","fromSide":"top","toNode":"d545e89cc0358f67","toSide":"bottom"},
+		{"id":"284c228f16b5d89a","fromNode":"d545e89cc0358f67","fromSide":"right","toNode":"1f0c21b52052e670","toSide":"left"},
+		{"id":"3f6765f3c4f9e229","fromNode":"d545e89cc0358f67","fromSide":"left","toNode":"4a9bc5fa4a68483b","toSide":"right"},
+		{"id":"5529a0bdb36bdad5","fromNode":"4a9bc5fa4a68483b","fromSide":"left","toNode":"9c8fe1f304537ca0","toSide":"bottom"},
+		{"id":"b195ea35fe1618a5","fromNode":"4a9bc5fa4a68483b","fromSide":"left","toNode":"67301c7e250765c7","toSide":"right"},
+		{"id":"46c5e181a7b13d91","fromNode":"1f0c21b52052e670","fromSide":"right","toNode":"8ab18f7fba79c7c8","toSide":"left"},
+		{"id":"67d1e3f146311903","fromNode":"1f0c21b52052e670","fromSide":"right","toNode":"450e4ef5e90329bf","toSide":"left"},
+		{"id":"9bf297d4f34b16c9","fromNode":"d545e89cc0358f67","fromSide":"right","toNode":"cf5386611eca6e2d","toSide":"left"}
+	]
+}

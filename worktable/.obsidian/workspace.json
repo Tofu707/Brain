@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "d99f5397ae9eb5a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6172568ec3f178e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccf95e9ca97236b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "读书笔记/论文/人是目的与手段的有机统一/人是目的与手段的统一.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "人是目的与手段的统一"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b42fd853029f1bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "9476c51ae3ba92d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4242c97df0210067",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d75ef61a7af45b7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b8e2a717941f5f02",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "eac153ae043cd5a3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "7e55ca16a2bc0385",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "工作台/四象限工作台.canvas",
+                "viewState": {
+                  "x": -999.8823993701626,
+                  "y": 357.18388358103215,
+                  "zoom": -1.5886089348793027
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "四象限工作台"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 631.5
+  },
+  "right": {
+    "id": "d7d20116f294b60c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9be26087e8f670d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c08b3945b8a36a47",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b143724a5e7b8b00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "工作坊/漫士──人工智能/一口气讲完人工智能 10.21.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "一口气讲完人工智能 10.21 的反向链接列表"
+            }
+          },
+          {
+            "id": "09117d74679c6396",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "梯度下降.md"
+              },
+              "icon": "lucide-list",
+              "title": "梯度下降 的大纲"
+            }
+          },
+          {
+            "id": "f5ba47f85e710d41",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "梯度下降.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "梯度下降 的出链列表"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "fuzzy-chinese-pinyin:FuzzySearch": false,
+      "i18n:翻译": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false,
+      "random-note:开始漫游笔记": false
+    }
+  },
+  "active": "4242c97df0210067",
+  "lastOpenFiles": [
+    "读书笔记/论文/人是目的与手段的有机统一/论文：人是目的与手段的有机统一.md",
+    "读书笔记/论文/人是目的与手段的有机统一/人是目的与手段的统一.md",
+    "工作坊/漫士─人工智能/一口气讲完人工智能 10.21.md",
+    "工作坊/反诈",
+    "工作台/四象限工作台.canvas",
+    "工作坊/漫士/一口气讲完人工智能 10.21.md",
+    "工作坊/漫士──人工智能/人工智能/LLM/马克思.md",
+    "工作坊/漫士──人工智能/人工智能/LLM/预测下一个语素 next-token-prodiction.md",
+    "工作坊/漫士──人工智能/人工智能/LLM/语言大模型 LLM.md",
+    "工作坊/漫士──人工智能/人工智能/LLM/语素.md",
+    "工作坊/漫士──人工智能/人工智能/LLM/语法树.md",
+    "工作坊/漫士──人工智能/人工智能/LLM/语料.md",
+    "工作坊/漫士──人工智能/人工智能/LLM/计算语言学.md",
+    "工作坊/漫士──人工智能/人工智能/LLM/自回归生成.md",
+    "工作坊/漫士──人工智能/人工智能/LLM/统计语言模型.md",
+    "工作坊/漫士──人工智能/人工智能/LLM/目的与手段.md",
+    "工作坊/漫士──人工智能/人工智能/LLM/监督训练微调 Supervised Fintune.md",
+    "工作坊/漫士──人工智能/人工智能/LLM/洞穴之寓.md",
+    "工作坊/漫士──人工智能/人工智能/LLM/人类反馈强化 RLHF.md",
+    "工作坊/漫士──人工智能/人工智能/LLM/LLM 预训练.md",
+    "工作坊/漫士──人工智能/人工智能/DM/高斯分布.md",
+    "工作坊/漫士──人工智能/人工智能/DM/评分函数 score function.md",
+    "工作坊/漫士──人工智能/人工智能/DM/维纳过程.md",
+    "工作坊/漫士──人工智能/人工智能/DM/流形假设 Manifold Hypothesis.md",
+    "工作坊/漫士──人工智能/人工智能/DM/去噪模型 Denoising Model.md",
+    "工作坊/漫士──人工智能/人工智能/DM/像素空间.md",
+    "工作坊/漫士──人工智能/人工智能/DM/人工智能──高斯分布.png",
+    "工作坊/漫士──人工智能/人工智能/DM/人工智能──评分函数.png",
+    "工作坊/漫士──人工智能/人工智能/DM/人工智能──扩散的方向性.png",
+    "工作坊/漫士──人工智能/人工智能/黑箱.md",
+    "工作坊/漫士──人工智能/人工智能/达特茅斯会议.md",
+    "工作坊/漫士──人工智能/人工智能/人工智能函数表达.png",
+    "工作坊/漫士──人工智能/人工智能/人工智能──符号主义.png",
+    "工作坊/漫士──人工智能/人工智能/人工智能──稠密连接网络.webp",
+    "工作坊/漫士──人工智能/人工智能/人工智能──神经元联系.png",
+    "工作坊/漫士──人工智能/人工智能/人工智能──残差网络.png",
+    "工作坊/漫士──人工智能/人工智能/人工智能──损失曲面.png",
+    "工作坊/漫士──人工智能/人工智能/人工智能──多项式拟合.png",
+    "工作坊/漫士──人工智能/人工智能/LLM",
+    "工作坊/漫士──人工智能/人工智能/DM",
+    "工作坊/漫士──人工智能/人工智能",
+    "工作坊/漫士──人工智能",
+    "读书笔记/论文/人是目的与手段的有机统一/人是目的与手段的有机统一.pdf",
+    "读书笔记/论文/人是目的与手段的有机统一",
+    "读书笔记/论文",
+    "工作坊/漫士/人工智能/DM",
+    "工作坊/漫士/人工智能/LLM",
+    "课堂/普心/白板/围攻光明顶.canvas",
+    "课堂/普心/白板/几种相关.canvas",
+    "课堂/普心/白板/研究方法.canvas"
+  ]
+}

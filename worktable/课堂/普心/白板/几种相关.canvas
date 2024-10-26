@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"322446cc906d09d5","x":0,"y":0,"width":400,"height":400,"type":"file","file":"课堂/普心/第四讲/相关关系.md"},
+		{"id":"c9477f119806acf2","x":500,"y":-120,"width":250,"height":60,"type":"text","text":"A-->B"},
+		{"id":"2285b2a601e11c55","x":500,"y":40,"width":250,"height":60,"type":"text","text":"B-->A"},
+		{"id":"1abb86d2a8c1e876","x":500,"y":170,"width":250,"height":60,"type":"text","text":"A, B-->C"},
+		{"id":"c54b9acb7bf35c3e","x":500,"y":370,"width":250,"height":60,"type":"text","text":"A--C-->B"}
+	],
+	"edges":[
+		{"id":"cd6482121a2deec5","fromNode":"322446cc906d09d5","fromSide":"right","toNode":"c9477f119806acf2","toSide":"left"},
+		{"id":"8e30db8196c5a5b7","fromNode":"322446cc906d09d5","fromSide":"right","toNode":"2285b2a601e11c55","toSide":"left"},
+		{"id":"d6af8e63ff6ad672","fromNode":"322446cc906d09d5","fromSide":"right","toNode":"1abb86d2a8c1e876","toSide":"left"},
+		{"id":"7a4ba2dfd79c562d","fromNode":"322446cc906d09d5","fromSide":"right","toNode":"c54b9acb7bf35c3e","toSide":"left"}
+	]
+}
